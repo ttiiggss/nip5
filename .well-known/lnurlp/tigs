@@ -1,0 +1,1 @@
+{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://getalby.com/lnurlp/okwhite/callback","metadata":"[[\"text/identifier\",\"okwhite@getalby.com\"],[\"text/plain\",\"Sats for tigs\"]]","minSendable":1,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
